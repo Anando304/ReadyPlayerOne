@@ -6,13 +6,16 @@
 - Games include: Flappy Bird, Basketball shootout, SpaceInvaders, Fruit Ninja, and Dodge.
 - Utilizes the PAC software architecture
 
+# Demonstration
+<a href="https://youtu.be/hmetlEpiaCc"> Click here </a>  
+
 # Ways to use: Python IDE
 - Open up to the directory `readyplayerone\src` using the IDE of your choice
 - Execute the `main.py` file.
 
 # Console - Installation Instructions
 ```installation:
-git clone https://gitlab.cas.mcmaster.ca/zamana11/readyplayerone.git
+git clone https://github.com/Anando304/ReadyPlayerOne.git
 cd ./readyplayerone/src
 pip install -r requirements.txt
 ```
